@@ -106,6 +106,7 @@ The file hierarchy of this archive is:
     ├── LICENCE
     ├── VERSION
     ├── original_datasets_files.txt
+    ├── metadata.csv.gz
     ├── background01
     │   ├── datasheet001
     │   │   ├── frame_0001.jpeg
@@ -151,7 +152,7 @@ The file hierarchy of this archive is:
         └── [...]
 
 
-#### Metadata file 
+#### Metadata file `metadata.csv.gz`
 The metadata file is a CSV file (separator: `,`, string quoting: None).
 It is safe to split on `,` tokens as they do not appear elsewhere in this file.
 Each row describes a video frame.
@@ -200,6 +201,7 @@ The file hierarchy of this archive is:
     ├── VERSION
     ├── correct_perspective.m
     ├── original_datasets_files.txt
+    ├── metadata.csv.gz
     ├── 01-original
     │   ├── datasheet001.png
     │   ├── [...]
@@ -221,7 +223,7 @@ The file hierarchy of this archive is:
         ├── [...]
         └── tax005.png
 
-#### Metadata file 
+#### Metadata file `metadata.csv.gz`
 The metadata file is a CSV file (separator: `,`, string quoting: None).
 It is safe to split on `,` tokens as they do not appear elsewhere in this file.
 Each row describes a model image.
