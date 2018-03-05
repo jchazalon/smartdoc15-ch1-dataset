@@ -3,6 +3,11 @@ Easy to download and parse version of the Smartdoc 2015 - Challenge 1 dataset.
 
 The original version of this dataset can be obtained at http://smartdoc.univ-lr.fr/.
 
+**To download the dataset, you have two options:**
+ 1. **(easier) use the python wrapper: https://github.com/jchazalon/smartdoc15-ch1-pywrapper**
+ 2. download the `frames.tar.gz` and the `models.tar.gz` files here: https://github.com/jchazalon/smartdoc15-ch1-dataset/releases
+
+
 ## About SmartDoc 2015 - Challenge 1
 The Smartdoc 2015 - Challenge 1 dataset was originally created for the Smartdoc 2015 competition focusing on the evaluation of document image acquisition method using smartphones. The challenge 1, in particular, consisted in detecting and segmenting document regions in video frames extracted from the preview stream of a smartphone. 
 
