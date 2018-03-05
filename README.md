@@ -192,6 +192,8 @@ Example of header + a random line:
 ### The `models.tar.gz` archive
 Please see the internal README.md file for more details.
 
+**We recommend using the `05-corrected-nexus-scaled33` if you want to use local descriptors to match the document models with their representation in the frames.**
+
 #### Files
 The file hierarchy of this archive is:
 
